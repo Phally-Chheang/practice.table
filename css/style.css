@@ -1,0 +1,36 @@
+
+table{
+    font-family: Arial, sans-serif;
+    border-radius: 5px;
+    width: 80%;
+    padding: 10px;
+    border-collapse: collapse;
+    margin: 20px auto;
+    box-shadow: rgba(6, 5, 5, 0.15) 1.95px 1.95px 2.6px;
+    overflow: hidden;
+}
+tbody tr{
+    border: 1px solid #ddd;
+}
+th ,td{
+    /* border: 1px solid #ddd; */
+    padding: 15px 7px;
+
+}
+thead{
+    background-color: rgb(32, 156, 32);
+    text-align: left;
+}
+
+.btn{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
